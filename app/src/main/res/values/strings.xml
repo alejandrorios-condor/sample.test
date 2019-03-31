@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Condor Sports</string>
+
+    <string name="fragment_teams_empty">it\'s empty :(</string>
+    <string name="event_date_error">No date available</string>
+    <string name="team_formed_year_title">Team formed year</string>
+    <string name="team_name">Team name</string>
+    <string name="team_stadium">Team stadium</string>
+
+    <string name="team_details_jersey_title">Oficial Jersey</string>
+    <string name="team_details_description_title">Description</string>
+    <string name="team_details_upcoming_events_title">Upcoming events</string>
+    <string name="team_details_no_web">Website Link unavailable</string>
+    <string name="team_details_no_facebook">Facebook Link unavailable</string>
+    <string name="team_details_no_twitter">Twitter Link unavailable</string>
+    <string name="team_details_no_instagram">Instagram Link unavailable</string>
+    <string name="team_details_no_youtube">YouTube Link unavailable</string>
+
+    <string name="button_ok">OK</string>
+    <string name="spanish_league_code">4335</string>
+    <string name="english_league_code">4328</string>
+    <string name="russian_premier_league_code">4355</string>
+    <string name="russian_premier_league_title">Russian Premier League</string>
+    <string name="english_league_title">English League</string>
+    <string name="spanish_league_title">La Liga</string>
+</resources>

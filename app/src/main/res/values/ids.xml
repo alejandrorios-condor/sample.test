@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fab_spanish_league" type="id" />
+    <item name="fab_english_premier_league" type="id" />
+    <item name="fab_uefa_champions_league" type="id" />
+</resources>

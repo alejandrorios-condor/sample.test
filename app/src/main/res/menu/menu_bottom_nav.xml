@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/navWebSite"
+        android:enabled="true"
+        android:title="@null"
+        android:icon="@drawable/ic_website"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/navFacebook"
+        android:enabled="true"
+        android:title="@null"
+        android:icon="@drawable/ic_facebook"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/navTwitter"
+        android:enabled="true"
+        android:title="@null"
+        android:icon="@drawable/ic_twitter"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/navInstagram"
+        android:enabled="true"
+        android:title="@null"
+        android:icon="@drawable/ic_instagram"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/navYouTube"
+        android:enabled="true"
+        android:title="@null"
+        android:icon="@drawable/ic_youtube"
+        app:showAsAction="ifRoom"/>
+</menu>
