@@ -12,6 +12,7 @@ The app uses this libraries:
   - [Realm](https://realm.io/docs/java/latest/): database management system used for this project.
   - [Guava](https://github.com/google/guava): is a set of libraries from Google that facilitates things like sort an array, filter from a list, Null validations, etc.
   - [ButterKnife](https://github.com/JakeWharton/butterknife): Library that uses annotations to bind fields and methods for android views.
+  - [Glide](https://github.com/bumptech/glide): Library for source media management.
   - [Speed Dial Floating Button](https://github.com/leinardi/FloatingActionButtonSpeedDial): Simple library used to swipe or slide a layout to show a different layout.
 
 ## Project Structure
