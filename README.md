@@ -15,7 +15,7 @@ The app uses this libraries:
   - [Glide](https://github.com/bumptech/glide): Library for source media management.
   - [Speed Dial Floating Button](https://github.com/leinardi/FloatingActionButtonSpeedDial): Simple library used to swipe or slide a layout to show a different layout.
 
-## Project Structure
+## Project Structure nn
 
 ```sh
 .
